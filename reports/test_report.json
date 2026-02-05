@@ -1,0 +1,14 @@
+{
+    "project": "Automated Firmware Test Framework",
+    "timestamp": "2026-02-04 20:33:24.564733",
+    "total_tests": 4,
+    "passed": 4,
+    "failed": 0,
+    "success_rate": "100.0%",
+    "tests": [
+        "1. Ligar dispositivo",
+        "2. Comando PING",
+        "3. Comando com dispositivo desligado",
+        "4. Comando desconhecido"
+    ]
+}
